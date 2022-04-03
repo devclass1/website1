@@ -1,1 +1,1 @@
-# website1
+# Sample website for class Purpose
